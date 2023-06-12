@@ -6,3 +6,7 @@ Data [here](https://drive.google.com/drive/folders/162piPrhb1VTkprzIB80znm0tK0an
 ## Installation
 
 ```pip install -r requirements.txt```
+
+## Google maps
+
+https://mt0.google.com/vt/lyrs=s&x={x}&y={y}&z={z}
